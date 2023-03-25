@@ -1,0 +1,25 @@
+﻿The key findings from the data analysis are as follows:
+
+    1.  For the client data :
+        
+           • Around 9.7% of clients have churned.
+             
+           • Numeric data is not Gaussian distributed, but somewhat right skewed.
+             
+           • Log transformation on numeric data gives a normal curve for most values, with a consolidation of values at 0.
+             
+           • There are a lot of outliers in the data.
+             
+           • There is some pattern in the year values, but no relationship between month and churn.
+             
+           • Only 18.2% of customers have subscribed to gas, with a higher churn rate among non-subscribers.
+             
+           • Some campaigns and sales channels have no fruitful results and should be discontinued.
+       
+       
+    2.  For the price data :
+              
+           • There are lots of 0 peak prices and mid-peak prices, but very few 0 off-peak prices.
+             
+       • There is little difference in the average price values between churn and non-churn clients, suggesting that price is unlikely to be a significant factor in determining churn.
+      
